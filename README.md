@@ -1,6 +1,6 @@
-# 🚀 Personal Finance Dashboard: The "Absolute Bible" of Documentation 🎓
+# Personal Finance Dashboard:
 
-Welcome to your project! This dashboard is now an "Enterprise-Grade" financial tracker designed for a **TCS Digital** interview. It uses **Python**, **MySQL**, and **Advanced JavaScript** to provide a seamless, voice-controlled experience.
+Welcome to your project! This dashboard is now an "Enterprise-Grade" financial tracker. It uses **Python**, **MySQL**, and **Advanced JavaScript** to provide a seamless, voice-controlled experience.
 
 ---
 
@@ -36,17 +36,7 @@ I have rewritten every single one of your guides to be the "Absolute Bible"—ex
 
 ---
 
-## 🏆 Interview Strategy
-When you present this, don't just say "I built an app." Say:
-> *"I designed and architected a **voice-integrated financial analytics platform** using a **decoupled full-stack model**. My solution features **hardware-aware signal processing** for the microphone and a **normalized MySQL schema** for persistent data integrity."*
-
-**Use the "Expert Phrases" found at the bottom of each guide to sound like a digital pro!**
-
----
-
 ## 🚀 How to Run Your App
 1.  **MySQL Workbench**: Open it and run the code in [docs/7_setup_sql.md](docs/7_setup_sql.md).
 2.  **Terminal**: Run `python3 app.py`.
 3.  **Browser**: Visit [http://localhost:5001](http://localhost:5001).
-
-**Your project is now 100% "Interviewer-Ready." Go get that job! 🎯**
